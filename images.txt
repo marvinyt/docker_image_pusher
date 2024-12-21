@@ -1,4 +1,3 @@
 nginx  
 centos
 alpine  
-arm64v8/ubuntu:latest
