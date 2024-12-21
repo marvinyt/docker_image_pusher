@@ -1,4 +1,3 @@
 nginx
 alpine  
-python:alpine3.19
 arm64v8/ubuntu:latest
