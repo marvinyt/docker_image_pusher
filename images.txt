@@ -1,3 +1,10 @@
-nginx
-centos
-alpine
+nginx:1.27.3
+busybox:1.37.0
+alpine:3.21.0
+ubuntu:25:04
+ubuntu:24.10
+ubuntu:22.04
+postgres:17.2
+postgres:16.6
+mysql:8.4.3
+mysql:8.0.40
