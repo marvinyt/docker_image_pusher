@@ -1,1 +1,2 @@
-dokuwiki/dokuwiki:stable
+zabbix-server-mysql:latest
+zabbix/zabbix-web-nginx-mysql:latest
